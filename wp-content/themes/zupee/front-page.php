@@ -46,7 +46,7 @@ $hero= get_field('hero_banner');
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="http://localhost/sitecheck/wp-content/uploads/2021/08/download.png" alt="alternative">
+                        <img class="img-fluid" src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/download.png" alt="alternative">
                     </div> 
                 </div> 
             </div> 
@@ -60,7 +60,7 @@ $hero= get_field('hero_banner');
                 <div class="col-lg-12">
                     <h2>AMAZING game<h2>
 					
-					<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/hero-section-img1-768x737-1.png"/>
+					<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/hero-section-img1-768x737-1.png"/>
 					
 				</div>
 			</div>
@@ -98,7 +98,7 @@ $hero= get_field('hero_banner');
                                                 <p>Dice-less & skill-based format</p>
                                             </div>
                                             <div class="card-icon">
-                                              <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/1-exciting.png"/>
+                                              <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/1-exciting.png"/>
                                             </div>
                                         </div>
                                     </div>
@@ -110,7 +110,7 @@ $hero= get_field('hero_banner');
 </p>
                                             </div>
                                             <div class="card-icon">
-                                             <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/2-quickest.png"/>
+                                             <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/2-quickest.png"/>
                                             </div>
                                         </div>
                                     </div>
@@ -124,7 +124,7 @@ $hero= get_field('hero_banner');
 </p>
                                             </div>
                                             <div class="card-icon">
-                                               <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/4-amazing.png"/>
+                                               <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/4-amazing.png"/>
                                             </div>
                                         </div>
                                    
@@ -134,14 +134,14 @@ $hero= get_field('hero_banner');
                                 </div>
                             
                                 <div class="col-lg-4">
-                                    <img class="img-fluid" src="http://localhost/sitecheck/wp-content/uploads/2021/08/features-iphone-1.png" alt="alternative">
+                                    <img class="img-fluid" src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/features-iphone-1.png" alt="alternative">
                                 </div>
                                 
                                 <div class="col-lg-4">
                                     <div class="card right-pane first">
                                         <div class="card-body">
                                             <div class="card-icon">
-                                             <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/3-Play.png"/>
+                                             <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/3-Play.png"/>
                                             </div>
                                             <div class="text-wrapper">
                         <h4 class="card-title">100% fair. 100% safe</h4>
@@ -154,7 +154,7 @@ $hero= get_field('hero_banner');
                                     <div class="card right-pane">
                                         <div class="card-body">
                                             <div class="card-icon">
-                                              <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/6-players.png"/>
+                                              <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/6-players.png"/>
                                             </div>
                                             <div class="text-wrapper">
                                                  <h4 class="card-title">Refer & earn </h4>
@@ -166,7 +166,7 @@ $hero= get_field('hero_banner');
                                     <div class="card right-pane">
                                         <div class="card-body">
                                         <div class="card-icon">
-                                               <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/5-RNG.png"/>
+                                               <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/5-RNG.png"/>
                                             </div>
                                             <div class="text-wrapper">
                                                 <h4 class="card-title">Quickest payouts</h4>
@@ -204,22 +204,22 @@ $hero= get_field('hero_banner');
 		<div class="slides">
       
 
-			<img class="slide" src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-1.png"> 
+			<img class="slide" src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-1.png"> 
 		</div>
     
 
 		<div class="slides">
-			<img class="slide" src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-2.png"> 
+			<img class="slide" src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-2.png"> 
 		</div>
 		
 	
 		<div class="slides">
-			<img class="slide" src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-4.png"> 
+			<img class="slide" src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-4.png"> 
 		</div>
     
 
     <div class="slides">
-			<img class="slide" src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-3.png"> 
+			<img class="slide" src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-3.png"> 
 		</div>
 		<a id="previous" class="arrow">&#10094</a>
 		<a id="next" class="arrow">&#10095</a>
@@ -240,19 +240,19 @@ $hero= get_field('hero_banner');
 <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-1.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-1.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-3.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-3.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-4.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-4.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-5.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-5.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-6.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-6.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-7.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-7.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step-7.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step-7.png"/>
 				<hr>
 				</div>
 				</div>
@@ -280,17 +280,17 @@ $hero= get_field('hero_banner');
     </div>
     
     <div class="screen-slider owl-carousel">
-      <div class="single-screen"> <span class="install-span">1. Click on <strong>Download App</strong> button</span> <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-1.png" alt="mobile screen"> </div>
-      <div class="single-screen"> <span class="install-span">2. Click<strong> OK </strong>on the dialogue box</span><img src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-2.png" alt="mobile screen"></div>
-      <div class="single-screen"> <span class="install-span">3. Tap on <strong>Downloaded File</strong> to install</span> <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-3.png" alt="mobile screen"> </div>
-      <div class="single-screen"> <span class="install-span">4. Click on <strong>Settings</strong> </span> <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-4.png" id="screenshotimg4" alt="mobile screen"> </div>
-      <div class="single-screen"> <span class="install-span">5. Click the <strong>Unknown Source</strong> Toggle</span> <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-5.png" alt="mobile screen"> </div>
-      <div class="single-screen"> <span class="install-span">6. Tap <strong>OK</strong> when asked for confirmation</span> <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/screenshot-6.png" alt="mobile screen"> </div>
+      <div class="single-screen"> <span class="install-span">1. Click on <strong>Download App</strong> button</span> <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-1.png" alt="mobile screen"> </div>
+      <div class="single-screen"> <span class="install-span">2. Click<strong> OK </strong>on the dialogue box</span><img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-2.png" alt="mobile screen"></div>
+      <div class="single-screen"> <span class="install-span">3. Tap on <strong>Downloaded File</strong> to install</span> <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-3.png" alt="mobile screen"> </div>
+      <div class="single-screen"> <span class="install-span">4. Click on <strong>Settings</strong> </span> <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-4.png" id="screenshotimg4" alt="mobile screen"> </div>
+      <div class="single-screen"> <span class="install-span">5. Click the <strong>Unknown Source</strong> Toggle</span> <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-5.png" alt="mobile screen"> </div>
+      <div class="single-screen"> <span class="install-span">6. Tap <strong>OK</strong> when asked for confirmation</span> <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/screenshot-6.png" alt="mobile screen"> </div>
     
     </div>
     
    
-    <div class="shadow"> <img src="http://localhost/sitecheck/wp-content/uploads/2021/08/full-shadow.png"/> </div>
+    <div class="shadow"> <img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/full-shadow.png"/> </div>
   </div>
   
   
@@ -303,23 +303,23 @@ $hero= get_field('hero_banner');
    <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/game-play.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/game-play.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step1.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step1.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step2.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step2.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step3.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step3.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step4.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step4.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step6.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step6.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/Step7.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/Step7.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/amazing-features-icon-3.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/amazing-features-icon-3.png"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/3-features-1.png"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/3-features-1.png"/>
 				<hr>
 				</div>
 				</div>
@@ -331,21 +331,21 @@ $hero= get_field('hero_banner');
 		 <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-				<img src="	http://localhost/sitecheck/wp-content/uploads/2021/08/photo-2.jpg"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-2.jpg"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-3.jpg"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-3.jpg"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-4.jpg"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-4.jpg"/>
 				<hr>
-					<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-1.jpg"/>
+					<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-1.jpg"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-5.jpg"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-5.jpg"/>
 				<hr>
-					<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-6.jpg"/>
+					<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-6.jpg"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-11-scaled.jpg"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-11-scaled.jpg"/>
 				<hr>
-				<img src="http://localhost/sitecheck/wp-content/uploads/2021/08/photo-08-scaled.jpg"/>
+				<img src="http://wpsite-check.herokuapp.com/wp-content/uploads/2021/08/photo-08-scaled.jpg"/>
 				</div>
 				</div>
 		</div>
